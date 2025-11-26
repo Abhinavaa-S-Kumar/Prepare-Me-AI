@@ -249,9 +249,6 @@ The emotion detection module tracks 7 emotions:
 - Sad
 - Angry
 - Fear
-- Disgust
-- Surprise
-- Neutral
 
 Data is collected every 30 seconds during learning sessions.
 
@@ -287,10 +284,6 @@ For detailed function documentation, see `PROJECT_FUNCTIONS_DOCUMENTATION.md`
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📝 License
-
-This project is open source and available under the MIT License.
 
 ## 👨‍💻 Author
 
