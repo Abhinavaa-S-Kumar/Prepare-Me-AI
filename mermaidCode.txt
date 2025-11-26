@@ -1,0 +1,14 @@
+
+```mermaid
+graph LR
+A[Network Hardware] --> B(Transmission Technology)
+A --> C(Scale)
+
+B --> D[Broadcast Links]
+B --> E[Point-to-Point Links]
+
+C --> F[Personal Area Network (PAN)]
+C --> G[Local Area Network (LAN)]
+C --> H[Metropolitan Area Network (MAN)]
+C --> I[Wide Area Network (WAN)]
+```

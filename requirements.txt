@@ -1,0 +1,9 @@
+google-generativeai
+PyPDF2
+python-dotenv
+opencv-python
+deepface
+requests
+flask
+tf-keras
+numpy
